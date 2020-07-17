@@ -1,9 +1,9 @@
 #  Moab Souza
 
 ### ℹ️ Sobre mim / About me
-Olá meu nome é Moab Souza, sou desenvolvedor web frontend e backend, entusiasta de REST, estudante de Engenharia de Software, e amante de tecnologia.
+Olá meu nome é Moab Souza, sou desenvolvedor web fullstack, entusiasta de REST, estudante de Engenharia de Software, e amante de tecnologia.
 </br>
-Hi, i'm Moab Souza, i'm a frontend and backend web developer, REST enthusiast, Software Engineering student, and technology lover.
+Hi, i'm Moab Souza, i'm a fullstack web developer, REST enthusiast, Software Engineering student, and technology lover.
 
 ### 🛠 Conhecimentos / Knowledges
 
