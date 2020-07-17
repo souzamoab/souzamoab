@@ -28,5 +28,5 @@ Hi, i'm Moab Souza, i'm a frontend and backend web developer, REST enthusiast, S
 
 ### 📲 Contato / Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souzamoab/)](https://www.linkedin.com/in/moabsouza/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moab-souza-62a74613b)](https://www.linkedin.com/in/moab-souza-62a74613b)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamoab@gmail.com)](mailto:souzamoab@gmail.com)
