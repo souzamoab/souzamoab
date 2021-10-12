@@ -27,6 +27,11 @@ Hi, my name is Moab Souza, i'm a fullstack web developer, REST enthusiast, Softw
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+[![Azure DevOps Server](https://img.shields.io/badge/-Azure%20DevOps%20Server-blue?style=flat-square&logo=tfs&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+
+[![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+[![Confluence](https://img.shields.io/badge/-Confluence-blue?style=flat-square&logo=confluence&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 
 ### 📲 Contato / Contact
 
