@@ -9,7 +9,6 @@ Hi, my name is Moab Souza, i'm a fullstack web developer, REST enthusiast, Softw
 
 [![Java](https://img.shields.io/badge/-Java-CF0E0E?style=flat-square&logo=java&link=https://github.com/souzamoab)](https://github.com/souzamoab/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/souzamoab/)
-[![C](https://img.shields.io/badge/-grey?style=flat-square&logo=C&link=https://github.com/souzamoab)](https://github.com/souzamoab/)
 [![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 
