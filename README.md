@@ -21,7 +21,7 @@ Hi, my name is Moab Souza, i'm a fullstack web developer, REST enthusiast, Softw
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 
