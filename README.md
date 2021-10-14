@@ -1,9 +1,9 @@
 #  Moab Souza
 
 ### ℹ️ Sobre mim / About me
-Olá, meu nome é Moab Souza, sou desenvolvedor fullstack na Capgemini Brasil, entusiasta de REST, estudante de Engenharia de Software, e amante de tecnologia.
+Olá, meu nome é Moab Souza, sou desenvolvedor fullstack na Capgemini Brasil, estudante de Engenharia de Software, e amante de tecnologia.
 </br>
-Hi, my name is Moab Souza, i'm a fullstack developer at Capgemini Brazil, REST enthusiast, Software Engineering student, and technology lover.
+Hi, my name is Moab Souza, i'm a fullstack developer at Capgemini Brazil, Software Engineering student, and technology lover.
 
 ### 🛠 Conhecimentos / Knowledges
 
