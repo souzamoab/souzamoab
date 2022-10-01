@@ -1,35 +1,48 @@
 #  Moab Souza
 
-### ℹ️ Sobre mim / About me
-Olá, meu nome é Moab Souza, sou apaixonado por tecnologia e atualmente atuo como Engenheiro de Software no Itaú Unibanco, o maior banco privado da América Latina.
+## ℹ️ Sobre mim / About me
+
+### Olá, meu nome é Moab Souza, sou apaixonado por tecnologia e atualmente atuo como Engenheiro de Software no Itaú Unibanco, o maior banco privado da América Latina.
+
+
+### Hi, my name is Moab Souza, I am passionate about technology and currently work as a Software Engineer at Itaú Unibanco, the largest private bank in Latin America.
+
 </br>
-Hi, my name is Moab Souza, I am passionate about technology and currently work as a Software Engineer at Itaú Unibanco, the largest private bank in Latin America.
 
-### 🛠 Conhecimentos / Knowledges
+## 🛠 Conhecimentos / Knowledges
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/souzamoab)]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-3776AB?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps%20Server-blue?style=flat-square&logo=tfs&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
 
-[![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
-[![Confluence](https://img.shields.io/badge/-Confluence-blue?style=flat-square&logo=confluence&link=https://github.com/souzamoab/)](https://github.com/souzamoab/)
+![Jira](https://img.shields.io/badge/Jira-E34F26?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 📲 Contato / Contact
+</br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moab-souza-62a74613b)](https://www.linkedin.com/in/moab-souza-62a74613b)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamoab@gmail.com)](mailto:souzamoab@gmail.com)
+## 📲 Contato / Contact
+
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/moab-souza-62a74613b)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:souzamoab@gmail.com)
