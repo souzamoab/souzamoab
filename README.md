@@ -2,10 +2,10 @@
 
 ## ℹ️ Sobre mim / About me
 
-### Olá, meu nome é Moab Souza, sou apaixonado por tecnologia e atualmente atuo como Engenheiro de Software no Itaú Unibanco, o maior banco privado da América Latina.
+### Olá, meu nome é Moab Souza, sou apaixonado por tecnologia e atualmente atuo como Engenheiro de Software no Itaú Unibanco.
 
 
-### Hi, my name is Moab Souza, I am passionate about technology and currently work as a Software Engineer at Itaú Unibanco, the largest private bank in Latin America.
+### Hi, my name is Moab Souza, I am passionate about technology and currently work as a Software Engineer at Itaú Unibanco.
 
 </br>
 
